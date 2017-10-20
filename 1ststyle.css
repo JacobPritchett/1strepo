@@ -10,3 +10,7 @@ p {
 	font-family: georgia;
 	font-size: 12pt;
 }
+div {
+	width: 300px;
+	margin: auto;
+}
